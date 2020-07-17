@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm L1aoXingyu 👋
+
+- 🔭 I’m currently working on [fastreid](https://github.com/JDAI-CV/fast-reid)
 
 <!--
 **L1aoXingyu/L1aoXingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
