@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [fastreid](https://github.com/JDAI-CV/fast-reid)
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=l1aoxingyu)]()
 <!--
 **L1aoXingyu/L1aoXingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
