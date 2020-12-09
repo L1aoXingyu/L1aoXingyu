@@ -1,6 +1,6 @@
 ### Hi there, I'm L1aoXingyu 👋
 
-- 🔭 I’m currently working on [fastreid](https://github.com/JDAI-CV/fast-reid)
+- 🔭 I’m currently working on [FastReID](https://github.com/JDAI-CV/fast-reid)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=l1aoxingyu&show_icons=true&theme=dracula)
 
