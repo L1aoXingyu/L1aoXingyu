@@ -110,16 +110,16 @@ def fetch_blog_entries():
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n".join(
-        [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:5]
-        ]
-    )
+    # releases = fetch_releases(TOKEN)
+    # releases.sort(key=lambda r: r["published_at"], reverse=True)
+    # md = "\n".join(
+        # [
+            # "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            # for release in releases[:5]
+        # ]
+    # )
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    # rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # tils = fetch_tils()
     # tils_md = "\n".join(
@@ -138,6 +138,6 @@ if __name__ == "__main__":
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     readme.open("w").write(rewritten)
