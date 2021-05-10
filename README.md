@@ -1,8 +1,8 @@
-### Hi there, I'm L1aoXingyu 👋
+### Hi there, I'm Sherlock 👋
 
 - 🔭 I’m currently working on [FastReID](https://github.com/JDAI-CV/fast-reid)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=l1aoxingyu&show_icons=true&theme=dracula)
+#### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
 
 
 <!--
