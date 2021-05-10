@@ -141,4 +141,3 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     readme.open("w").write(rewritten)
-    from ipdb import set_trace; set_trace()
