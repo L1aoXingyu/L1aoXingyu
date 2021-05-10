@@ -4,7 +4,11 @@
 
 #### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
-
+* [Study Less, Study Smart](https://l1aoxingyu.github.io/blogpages/utility/2021/05/09/Study-Less-Study-Smart.html) - 2021-05-09
+* [FastReID V1.0: Beyond reID](https://l1aoxingyu.github.io/blogpages/reid/fastreid/2021/04/28/fastreid-v1.html) - 2021-04-28
+* [FastReID: 一个面向学术界和工业界的 ReID Toolbox](https://l1aoxingyu.github.io/blogpages/reid/fastreid/2020/05/29/fastreid.html) - 2020-05-29
+* [Self-Supervised Learning 入门介绍](https://l1aoxingyu.github.io/blogpages/summary/self-supervised%20learning/2020/02/20/ssl-survey.html) - 2020-02-20
+* [A Simple Framework for Contrastive Learning of Visual Representations” 阅读笔记](https://l1aoxingyu.github.io/blogpages/self-supervised%20learning/2020/02/15/simclr.html) - 2020-02-15
 <!-- blog ends -->
 
 <!--
