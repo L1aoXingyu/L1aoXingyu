@@ -4,11 +4,11 @@
 
 #### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
+* [《黑客与画家》读后感](https://l1aoxingyu.github.io/blogpages/book%20review/programming/2021/06/02/hackers-and-painters.html) - 2021-06-02
 * [深度学习中的分布式并行介绍](https://l1aoxingyu.github.io/blogpages/summary/self-supervised%20learning/2021/05/16/dl-dist-train.html) - 2021-05-16
 * [Study Less, Study Smart](https://l1aoxingyu.github.io/blogpages/utility/2021/05/09/Study-Less-Study-Smart.html) - 2021-05-09
 * [FastReID V1.0: Beyond reID](https://l1aoxingyu.github.io/blogpages/reid/fastreid/2021/04/28/fastreid-v1.html) - 2021-04-28
 * [FastReID: 一个面向学术界和工业界的 ReID Toolbox](https://l1aoxingyu.github.io/blogpages/reid/fastreid/2020/05/29/fastreid.html) - 2020-05-29
-* [Self-Supervised Learning 入门介绍](https://l1aoxingyu.github.io/blogpages/summary/self-supervised%20learning/2020/02/20/ssl-survey.html) - 2020-02-20
 <!-- blog ends -->
 
 <!--
