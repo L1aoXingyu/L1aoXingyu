@@ -1,6 +1,7 @@
 ### Hi there, I'm Sherlock 👋
 
 - 🔭 I’m currently working on [FastReID](https://github.com/JDAI-CV/fast-reid)
+- I'm learning cs61B/C.
 
 #### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
