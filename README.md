@@ -1,6 +1,6 @@
 ### Hi there, I'm Sherlock 👋
 
-- 🔭 I’m currently working on [FastReID](https://github.com/JDAI-CV/fast-reid)
+- 🔭 I’m currently working on [LiBai](https://github.com/Oneflow-Inc/libai)
 - I'm learning cmu15213.
 
 #### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
