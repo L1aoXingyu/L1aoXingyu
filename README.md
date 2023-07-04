@@ -5,11 +5,11 @@
 
 #### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
+* [如何做 continued pre-train](https://l1aoxingyu.github.io/blogpages/deep%20learning/llm/pre-train/2023/07/04/continued-pretrain-intro.html) - 2023-07-04
+* [记一次找 PyTorch 和 TensorRT FP16 diff 的经历](https://l1aoxingyu.github.io/blogpages/deep%20learning/deployment/tensorrt/inference/onnx/2023/02/28/find-trt-fp16-diff.html) - 2023-02-28
 * [TensorRT 使用 Custom Plugin](https://l1aoxingyu.github.io/blogpages/deep%20learning/deployment/tensorrt/inference/onnx/2022/09/09/tensorrt-plugin.html) - 2022-09-09
 * [CSAPP 之 Attack Lab](https://l1aoxingyu.github.io/blogpages/operation%20system/c/csapp/assembly/attack/disassembly/2022/03/15/csapp-attack.html) - 2022-03-15
 * [VSCode 配置最舒适的深度学习开发环境](https://l1aoxingyu.github.io/blogpages/vscode/tool/development/deep%20learning/2022/02/19/vscode-develop_tool.html) - 2022-02-19
-* [CSAPP 之 Bomb Lab](https://l1aoxingyu.github.io/blogpages/operation%20system/c/csapp/assembly/2022/02/13/csapp-bomb.html) - 2022-02-13
-* [如何在 OneFlow 中开发一个新的 UserOp](https://l1aoxingyu.github.io/blogpages/deep%20learning/userop/dl%20framework/2021/11/18/oneflow-userOp.html) - 2021-11-18
 <!-- blog ends -->
 
 <!--
