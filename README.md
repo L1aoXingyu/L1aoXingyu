@@ -5,9 +5,9 @@
 
 #### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
-* [FastReID: 一个面向学术界和工业界的 ReID Toolbox](https://astro-paper.pages.dev/posts/fastreid-%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%90%91%E5%AD%A6%E6%9C%AF%E7%95%8C%E5%92%8C%E5%B7%A5%E4%B8%9A%E7%95%8C%E7%9A%84-reid-toolbox/) - Fri, 29 May 2020 08:20:00 GM
-* [Self-Supervised Learning 入门介绍](https://astro-paper.pages.dev/posts/self-supervised-learning-%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D/) - 
-* [A Simple Framework for Contrastive Learning of Visual Representations" 阅读笔记](https://astro-paper.pages.dev/posts/a-simple-framework-for-contrastive-learning-of-visual-representations-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/) - Sat, 15 Feb 2020 05:17:19 GM
+* [FastReID: 一个面向学术界和工业界的 ReID Toolbox](https://sherlock-dev.netlify.app/posts/fastreid-%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%90%91%E5%AD%A6%E6%9C%AF%E7%95%8C%E5%92%8C%E5%B7%A5%E4%B8%9A%E7%95%8C%E7%9A%84-reid-toolbox/) - Fri, 29 May 2020 08:20:00 GM
+* [Self-Supervised Learning 入门介绍](https://sherlock-dev.netlify.app/posts/self-supervised-learning-%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D/) - 
+* [A Simple Framework for Contrastive Learning of Visual Representations" 阅读笔记](https://sherlock-dev.netlify.app/posts/a-simple-framework-for-contrastive-learning-of-visual-representations-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/) - Sat, 15 Feb 2020 05:17:19 GM
 <!-- blog ends -->
 
 <!--
