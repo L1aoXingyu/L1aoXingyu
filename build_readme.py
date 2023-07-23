@@ -102,7 +102,7 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "published": entry["published"],
         }
         for entry in entries
     ]
