@@ -97,7 +97,7 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://l1aoxingyu.github.io/blogpages/feed.xml")["entries"]
+    entries = feedparser.parse("https://sherlock-dev.netlify.app/rss.xml")["entries"]
     return [
         {
             "title": entry["title"],
