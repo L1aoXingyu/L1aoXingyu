@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [LiBai](https://github.com/Oneflow-Inc/libai)
 - I'm learning cmu15213.
 
-#### 🤹‍♀️ <a href="https://l1aoxingyu.github.io/blogpages/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
 * [我是如何使用番茄工作法的](https://l1aoxingyu.github.io/blogpages/project%20management/todo/2023/07/10/how-to-use-pomodor.html) - 2023-07-10
 * [如何做 continued pre-train](https://l1aoxingyu.github.io/blogpages/deep%20learning/llm/pre-train/2023/07/04/continued-pretrain-intro.html) - 2023-07-04
