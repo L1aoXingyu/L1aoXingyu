@@ -5,11 +5,11 @@
 
 #### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
+* [GPTQ Math Derivation](https://sherlock-dev.netlify.app/posts/gptq-math-derivation/) - Sat, 09 Sep 2023
 * [Triton Tutorial #1](https://sherlock-dev.netlify.app/posts/triton-tutorial-1/) - Tue, 05 Sep 2023
 * [Triton Tutorial #0](https://sherlock-dev.netlify.app/posts/triton-tutorial-0/) - Sat, 02 Sep 2023
 * [Benchmark for LLM Inference](https://sherlock-dev.netlify.app/posts/benchmark-for-llm-inference/) - Sun, 20 Aug 2023
 * [RoPE and Length Scaling](https://sherlock-dev.netlify.app/posts/rope-and-length-scaling/) - Thu, 10 Aug 2023
-* [CodeLLM Training Recipe](https://sherlock-dev.netlify.app/posts/codellm-training-recipe/) - Wed, 26 Jul 2023
 <!-- blog ends -->
 
 <!--
