@@ -1,4 +1,4 @@
-### Hi there, I'm Sherlock 👋
+### Hi there, I'm Sherlock 👋 ![ViewCount](https://views.whatilearened.today/views/github/L1aoXingyu/L1aoXingyu.svg)
 
 - 🔭 I’m currently working on [LiBai](https://github.com/Oneflow-Inc/libai)
 - I'm learning cmu15213.
