@@ -5,7 +5,11 @@
 
 #### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
-
+* [8-bit KV Cache](https://sherlock-dev.netlify.app/posts/8-bit-kv-cache/) - Wed, 24 Jan 2024
+* [SmoothQuant and AWQ](https://sherlock-dev.netlify.app/posts/smoothquant-and-awq/) - Sun, 08 Oct 2023
+* [LLM Quantization Review](https://sherlock-dev.netlify.app/posts/llm-quantization-review/) - Mon, 02 Oct 2023
+* [Triton Tutorial #2](https://sherlock-dev.netlify.app/posts/triton-tutorial-2/) - Wed, 20 Sep 2023
+* [GPTQ Code Implementation](https://sherlock-dev.netlify.app/posts/gptq-code-implementation/) - Mon, 18 Sep 2023
 <!-- blog ends -->
 
 <!--
