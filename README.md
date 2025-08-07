@@ -5,11 +5,11 @@
 
 #### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
-* [8-bit KV Cache](https://sherlock-dev.netlify.app/posts/8-bit-kv-cache/) - Wed, 24 Jan 2024
-* [SmoothQuant and AWQ](https://sherlock-dev.netlify.app/posts/smoothquant-and-awq/) - Sun, 08 Oct 2023
-* [LLM Quantization Review](https://sherlock-dev.netlify.app/posts/llm-quantization-review/) - Mon, 02 Oct 2023
-* [Triton Tutorial #2](https://sherlock-dev.netlify.app/posts/triton-tutorial-2/) - Wed, 20 Sep 2023
-* [GPTQ Code Implementation](https://sherlock-dev.netlify.app/posts/gptq-code-implementation/) - Mon, 18 Sep 2023
+* [W4A8KV4 Quantization Summary and Best Practices](https://sherlock-dev.netlify.app/posts/w4a8kv4-quantization-summary-and-best-practices/) - Fri, 30 Aug 2024
+* [Low-Bit MoE Quantization for Large Language Models](https://sherlock-dev.netlify.app/posts/low-bit-moe-quantization-for-large-language-models/) - Thu, 25 Jul 2024
+* [Speculative Sampling for Faster LLM Inference](https://sherlock-dev.netlify.app/posts/speculative-sampling-for-faster-llm-inference/) - Thu, 20 Jun 2024
+* [DeepSeek-v2 In a Nutshell - Multi-Head Latent Attention](https://sherlock-dev.netlify.app/posts/deepseek-v2-in-a-nutshell---multi-head-latent-attention/) - Wed, 15 May 2024
+* [LayerNorm Mathematical Derivation and Implementation](https://sherlock-dev.netlify.app/posts/layernorm-mathematical-derivation-and-implementation/) - Wed, 10 Apr 2024
 <!-- blog ends -->
 
 <!--
