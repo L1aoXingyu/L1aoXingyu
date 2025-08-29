@@ -5,11 +5,11 @@
 
 #### 🤹‍♀️ <a href="https://sherlock-dev.netlify.app/" target="_blank">Recent Blog</a>
 <!-- blog starts -->
+* [MXFP4 and NVFP4](https://sherlock-dev.netlify.app/posts/mxfp4-and-nvfp4/) - Thu, 28 Aug 2025
 * [W4A8KV4 Quantization Summary and Best Practices](https://sherlock-dev.netlify.app/posts/w4a8kv4-quantization-summary-and-best-practices/) - Fri, 30 Aug 2024
 * [Low-Bit MoE Quantization for Large Language Models](https://sherlock-dev.netlify.app/posts/low-bit-moe-quantization-for-large-language-models/) - Thu, 25 Jul 2024
 * [Speculative Sampling for Faster LLM Inference](https://sherlock-dev.netlify.app/posts/speculative-sampling-for-faster-llm-inference/) - Thu, 20 Jun 2024
 * [DeepSeek-v2 In a Nutshell - Multi-Head Latent Attention](https://sherlock-dev.netlify.app/posts/deepseek-v2-in-a-nutshell---multi-head-latent-attention/) - Wed, 15 May 2024
-* [LayerNorm Mathematical Derivation and Implementation](https://sherlock-dev.netlify.app/posts/layernorm-mathematical-derivation-and-implementation/) - Wed, 10 Apr 2024
 <!-- blog ends -->
 
 <!--
